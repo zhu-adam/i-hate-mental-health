@@ -1,0 +1,16 @@
+# Xcode build artifacts
+MentalHealth/build/
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+
+# DerivedData
+DerivedData/
+*.xcscmblueprint
+
+# Exported app
+*.app
+*.ipa
+
+# macOS
+.DS_Store
