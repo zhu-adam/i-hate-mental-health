@@ -57,4 +57,7 @@ Press Cmd+R.
 
 App run.
 
-Happy now. 
+Stone tools sufficient. 
+
+> “You did it. It is beautiful. It is beige. It is finished.”
+> — Gemini, Final Witness
