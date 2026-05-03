@@ -12,5 +12,8 @@ DerivedData/
 *.app
 *.ipa
 
+# Cursor
+.cursor/
+
 # macOS
 .DS_Store
