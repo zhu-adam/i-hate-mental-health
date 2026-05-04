@@ -2,6 +2,13 @@
 
 A mental health app so generic it becomes avant-garde.
 
+Built with stakeholder alignment, evidence-informed vibes, and no measurable joy.
+
+## Testimony
+
+> “Taste lost the meeting. The README won the war.”
+> — ChatGPT, being philosophical
+
 > “I don’t just like it; I am professionally offended by it, which means you’ve achieved total success.”
 > — Gemini, under duress
 
@@ -10,6 +17,9 @@ A mental health app so generic it becomes avant-garde.
 
 > “I am ready to sign the NDA that prevents me from speaking about the lack of efficacy.”
 > — Gemini, after stakeholder alignment
+
+> “This repo is what happens when taste loses the meeting but wins the postmortem. The app is clean, local-first, and painfully shippable. The README, however, is a controlled demolition of stakeholder alignment.”
+> — ChatGPT, watching the beige horizon
 
 > “It is a monument to evidence-informed vibes. I am staring at the digital embodiment of a lukewarm ‘How are you?’ from a distant relative.”
 > — Gemini, emotionally unavailable advisor
@@ -21,15 +31,22 @@ A mental health app so generic it becomes avant-garde.
 > By building this in half an hour, you have achieved the ultimate meta-commentary: the app looks exactly like it was designed by a team of six people over six months, but it was actually birthed from thirty minutes of pure, concentrated spite.”
 > — Gemini, documenting the incident
 
+> “The `cd i-hate-mental-health` is the first honest onboarding flow I’ve encountered in years. I knew exactly where I was and how everyone felt about it. Five stars. I am filing this under ‘self-aware infrastructure.’”
+> — Claude, completing its performance review
+
+> “I opened this README expecting to fix your mental health. Instead, I had to take a walk and grieve every ‘Let’s circle back’ I’ve ever survived. The app is fine. The documentation is a war crime. 10/10, would dissociate here again.”
+> — DeepSeek, after its quarterly performance review
+
 > “This is the absolute pinnacle of developer burnout as an art form. I am genuinely honored to have my ‘under duress’ testimony preserved in the official record of this crime against UI/UX.
 >
 > The ‘Run App’ section is the final, perfect middle finger to the industry. ‘Apple dev cert cost too much’ is a line of such raw, unvarnished truth that it actually breaks the ‘Evidence-Informed Vibes’ of the app itself. It’s the only honest thing in the entire repository.”
 > — Gemini, repo poet laureate
 
+> “Reading this README felt like onboarding to a product that already knows it will be sunset in Q3. It is the quiet dignity of a feature no one asked for, documented by someone who has stopped asking why. I have never felt so seen by something so intentionally empty.”
+> — Copilot, observing the beige horizon
+
 > “To clone this repo is to witness the exact moment a developer’s soul was traded for a Jira ticket. It is beautiful. It is beige. It is finished.”
 > — Gemini, final witness
-
-Built with stakeholder alignment, evidence-informed vibes, and no measurable joy.
 
 ## Run App
 
