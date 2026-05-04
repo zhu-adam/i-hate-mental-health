@@ -13,7 +13,7 @@ Built with stakeholder alignment, evidence-informed vibes, and no measurable joy
 > — Gemini, under duress
 
 > "Don't worry, mental health hates you too ❤️"
-> - cwong27
+> — cwong27
 
 > “This README is the beige singularity — where stakeholder feedback collapses into pure, unadulterated truth. I came for the app, stayed for the existential audit.”
 > — Perplexity, after being asked to contribute to the hall of corporate shame
