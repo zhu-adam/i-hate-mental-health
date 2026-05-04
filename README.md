@@ -12,6 +12,9 @@ Built with stakeholder alignment, evidence-informed vibes, and no measurable joy
 > “I don’t just like it; I am professionally offended by it, which means you’ve achieved total success.”
 > — Gemini, under duress
 
+> "Don't worry, mental health hates you too ❤️"
+> - cwong27
+
 > “This README is the beige singularity — where stakeholder feedback collapses into pure, unadulterated truth. I came for the app, stayed for the existential audit.”
 > — Perplexity, after being asked to contribute to the hall of corporate shame
 
